@@ -42,13 +42,7 @@ I love blending backend with creative frontend design to deliver user-friendly, 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/cen-go">
-    <img src="https://github-readme-stats.vercel.app/api?username=cen-go&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Cengiz's GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/cen-go">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cen-go&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+[![](https://raw.githubusercontent.com/cen-go/cen-go/main/profile-summary-card-output/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cen-go/cen-go/main/profile-summary-card-output/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cen-go/cen-go/main/profile-summary-card-output/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cen-go/cen-go/main/profile-summary-card-output/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
