@@ -26,6 +26,7 @@ I love blending backend with creative frontend design to deliver user-friendly, 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun Runtime" />
 </p>
 
 **Tools & Utilities**
